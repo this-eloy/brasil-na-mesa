@@ -1,6 +1,6 @@
 Brasil Na Mesa 
  
-![Página inicial do Brasil na Mesa](projeto/IMGS/prints/home-brasil-na-mesa.png)
+![Página inicial do Brasil na Mesa](https://github.com/this-eloy/brasil-na-mesa/blob/main/projeto/IMGS/prints/home-brasil-na-mesa.png?raw=true)
 
 Projeto desenvolvido para fins acadêmicos na disciplina de Desenvolvimento de Páginas Web Dinâmicas do curso de Análise e Desenvolvimento de Sistemas no IFSP.
 
